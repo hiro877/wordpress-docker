@@ -1,8 +1,8 @@
-
 下記リポジトリを個人で管理するために作成したリポジトリです。
 正確な情報は下記リポジトリまたはQiita記事をご確認ください！
 ・GitHub
 https://github.com/kawamataryo/quick-start-wordpress-docker
+
 ・[Qiita]Docker-composeで最強（自分史上）のWordPress開発環境を作る
 https://qiita.com/ryo2132/items/d75e1846aa181676406e
 
